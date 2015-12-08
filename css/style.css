@@ -1,0 +1,38 @@
+.container {
+  height: 500px;
+  width: 900px;
+  background: #FF7A5A;
+  margin: 0 auto;
+  position: relative;
+}
+
+.input-container {
+  padding: 20px;
+  width: 850px;
+  margin: 0 auto;
+  border: 5px solid #FF7A5A;
+  border-top: 0px;
+  text-align: center;
+}
+
+.box {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: #FCF4D9;
+}
+
+.player {
+  background: #462066;
+}
+
+.input {
+  height: 100px;
+  text-align: center;
+}
+
+#go-btn {
+  width: 100px;
+}
